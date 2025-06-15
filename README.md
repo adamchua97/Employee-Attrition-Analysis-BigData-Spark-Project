@@ -45,14 +45,21 @@ This project explores the critical issue of employee attrition using a structure
 
 Focused on discovering patterns within the attrited (left) employee population.
 
-#### Gender vs. Attrition Count
-![Gender Attrition](images/gender_attrition.png)
+#### Attrition Count
+![Attrition](images/attrition.png)
 
 #### Age Distribution of Attrited Employees
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](images/age_att.png)
+
+#### Gender vs. Attrition Count
+![Gender Attrition](images/gender_att.png)
+
+#### Department vs. Attrition Count
+![Department Attrition](images/department_att.png)
 
 - Attrition rates were highest among employees aged 21–23 and around age 42.
 - Gender distribution among attrited employees was nearly equal.
+- Finance and Marketing departments had the highest attrition rates, while HR and IT experienced the lowest. This suggests certain departments may face unique challenges affecting retention.
 
 ### 3. Predictive Modeling
 
@@ -137,7 +144,3 @@ This project demonstrates how data-driven insights can enhance workforce managem
 - `images/`: Visualizations used in this README
 
 For any questions or collaboration opportunities, feel free to reach out via GitHub or LinkedIn.
-
----
-
-**Note:** Visualizations such as `gender_attrition.png` and `age_distribution.png` should be added to an `images/` folder in your repository to render properly in this README.
