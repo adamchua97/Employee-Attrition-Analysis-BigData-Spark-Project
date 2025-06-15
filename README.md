@@ -146,6 +146,6 @@ This project demonstrates how data-driven insights can enhance workforce managem
 - `notebooks/`: Jupyter notebooks with analysis and modeling
 - `data/`: Processed dataset used in the project
 - `images/`: Visualizations used in this README
-- PowerPoint Presentation for Project & Analysis
+- **PowerPoint Presentation for Project & Analysis**
 
 For any questions or collaboration opportunities, feel free to reach out via GitHub or LinkedIn.
