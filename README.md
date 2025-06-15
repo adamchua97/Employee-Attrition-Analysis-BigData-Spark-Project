@@ -55,11 +55,15 @@ Focused on discovering patterns within the attrited (left) employee population.
 ![Gender Attrition](images/gender_att.png)
 
 #### Department vs. Attrition Count
-![Department Attrition](images/department_att.png)
+![Department Attrition](images/dept_att.png)
+
+#### Job Role vs. Attrition Count
+![Department Attrition](images/jobRole_att.png)
 
 - Attrition rates were highest among employees aged 21–23 and around age 42.
 - Gender distribution among attrited employees was nearly equal.
 - Finance and Marketing departments had the highest attrition rates, while HR and IT experienced the lowest. This suggests certain departments may face unique challenges affecting retention.
+- Assistant-level roles, particularly in non-managerial tracks, showed a significantly higher proportion of attrition compared to other roles. Manager positions had the lowest attrition, indicating a strong inverse relationship between seniority and attrition.
 
 ### 3. Predictive Modeling
 
