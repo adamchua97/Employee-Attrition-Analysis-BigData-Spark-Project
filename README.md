@@ -132,6 +132,9 @@ Machine learning models were trained to predict the likelihood of employee attri
 - Lack of time-series data for trend analysis.
 - Potential external variables not captured in the dataset.
 - Weak clustering structure suggests limited segmentation ability.
+- Target variable/class imbalance; far more non-attrited instances than attrited.
+  - This affects performance of predictive models because they are trained more on non-attrited instances which leads to those records getting predicted more often.
+  - Performing oversampling techniques (Random, SMOTE, ADASYN) can help with imbalanced dataset issues.
 
 ---
 
